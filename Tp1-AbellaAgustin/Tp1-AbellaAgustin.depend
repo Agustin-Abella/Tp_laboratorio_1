@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588795915 source:c:\users\administrator\desktop\new folder\tp1-abellaagustin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1588798131 c:\users\administrator\desktop\new folder\tp1-abellaagustin\biblioteca.h
+
+1588798153 source:c:\users\administrator\desktop\new folder\tp1-abellaagustin\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
